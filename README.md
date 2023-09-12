@@ -1,2 +1,2 @@
-# backup-prometheus-grafana
-this repo was clone from etech repos for demo purpose
+# prometheus-grafana
+complete manual to set up Prometheus and Grafana
